@@ -209,8 +209,18 @@ public class Main {
 							System.out.println("순위\tID\t닉네임\t보유 포인트");
 
 							for (int i = 0; i < list.size(); i++) {
-								System.out.println((i + 1) + "위\t" + list.get(i).getID() + "\t" + list.get(i).getNICK()
+								System.out.print((i + 1) + "위\t" + list.get(i).getID() + "\t" + list.get(i).getNICK()
 										+ "\t" + list.get(i).getPOINT());
+								
+								if(list.get(i).getPOINT()>=10000000) {
+									System.out.print("<🏆> ");
+								}else if (list.get(i).getPOINT()>=1000000) {
+									System.out.print("<💎> ");
+								}else if (list.get(i).getPOINT()>=100000) {
+									System.out.print("<⛏> ");
+								}else {
+									System.out.print("<💀> ");
+								}
 								System.out.println();
 							}
 
