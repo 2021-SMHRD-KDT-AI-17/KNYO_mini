@@ -30,7 +30,7 @@ public class AnimalQz {
 			mL.add(timer);
 			mL.add(lose);
 
-			for (int i = 50; i >= 0; i--) {
+			for (int i = 60; i >= 0; i--) {
 				try {
 					Thread.sleep(1000);
 					if (i == 15) {
@@ -119,6 +119,10 @@ public class AnimalQz {
 					
 					System.out.print("배팅 금액을 입력해주세요 : ");
 					int money = sc.nextInt();
+					if(money>point5) {
+						System.out.println("잘못 입력하셨습니다.");
+						break;
+					}
 					con.musicPlay(2, mL);
 
 					// 퀴즈 시작
