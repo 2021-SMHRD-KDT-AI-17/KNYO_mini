@@ -24,11 +24,11 @@ public class MDAO {
 			
 			conn = DriverManager.getConnection(url, user, pass);
 			
-			if(conn != null) {
-//				System.out.println("연결성공");
-			} else {
-//				System.out.println("연결실패");
-			}
+//			if(conn != null) {
+////				System.out.println("연결성공");
+//			} else {
+////				System.out.println("연결실패");
+//			}
 			
 		} catch (Exception e) {
 			e.printStackTrace();

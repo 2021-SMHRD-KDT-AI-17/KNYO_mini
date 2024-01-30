@@ -26,11 +26,11 @@ public class shop {
 			
 			conn = DriverManager.getConnection(url, user, pass);
 			
-			if(conn != null) {
-				System.out.println("연결성공");
-			} else {
-				System.out.println("연결실패");
-			}
+//			if(conn != null) {
+//				System.out.println("연결성공");
+//			} else {
+//				System.out.println("연결실패");
+//			}
 			
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -48,7 +48,7 @@ public class shop {
 	} catch (SQLException e) {
 		e.printStackTrace();
 	}
-		System.out.println("연결종료");
+//		System.out.println("연결종료");
 		
 	}
 	

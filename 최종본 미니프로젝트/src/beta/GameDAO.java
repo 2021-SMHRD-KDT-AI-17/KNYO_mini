@@ -37,11 +37,11 @@ public class GameDAO {
 			conn = DriverManager.getConnection(url, user, password);
 
 			// 연결확인
-			if (conn != null) {
-				System.out.println("DB연결 성공!");
-			} else {
-				System.out.println("DB연결 실패...T^T");
-			}
+//			if (conn != null) {
+//				System.out.println("DB연결 성공!");
+//			} else {
+//				System.out.println("DB연결 실패...T^T");
+//			}
 
 		} catch (Exception e) {
 			e.printStackTrace(); // 오류 출력
@@ -69,7 +69,7 @@ public class GameDAO {
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
-		System.out.println("DB연결종료!");
+//		System.out.println("DB연결종료!");
 
 	}
 
