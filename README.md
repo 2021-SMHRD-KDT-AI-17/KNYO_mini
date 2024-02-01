@@ -63,7 +63,7 @@
 ## 🖥 화면 구성
 
 ### 로그인/회원가입
-![KakaoTalk_20240130_105325460](https://github.com/2021-SMHRD-KDT-AI-17/KNYO_mini/assets/157433093/7b9c0906-1849-4ac6-a369-6a79707e5f8d)
+![KakaoTalk_20240130_105213266](https://github.com/2021-SMHRD-KDT-AI-17/KNYO_mini/assets/157433093/483af538-e486-4dcb-94a2-8388ea5b2ba8)
 <br>
 
 ### 게임설명/현재 포인트, 랭킹 확인
