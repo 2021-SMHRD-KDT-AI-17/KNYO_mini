@@ -67,7 +67,7 @@
 <br>
 
 ### 게임설명/현재 포인트, 랭킹 확인
-![KakaoTalk_20240130_105227460](https://github.com/2021-SMHRD-KDT-AI-17/KSH/assets/157433093/3fdb8c74-6904-48ad-aaed-0fdfef7d01cb)
+![KakaoTalk_20240130_105227460](https://github.com/2021-SMHRD-KDT-AI-17/KNYO_mini/assets/157433093/87e4d6b4-891f-4c53-aaa1-c0952daa3941)
 <br>
 
 ### main 게임 및 현재 보유 펫 확인
