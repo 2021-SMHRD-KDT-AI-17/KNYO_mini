@@ -1,5 +1,5 @@
 # 📎 Java기반 영단어 맞추기 게임(팀명: 권나양오 )
-![KakaoTalk_20240130_100352901](https://github.com/2021-SMHRD-KDT-AI-17/KSH/assets/157433093/37a78423-68e3-4e15-b662-240f82e4dc97)
+![Header-A-casino-table-with-chips-stacked-on-top-Gambling-myths-unpacked](https://github.com/2021-SMHRD-KDT-AI-17/KNYO_mini/assets/157433093/a06ab754-0428-46d5-b68a-30b4a573e2d7)
 
 ## 👀 서비스 소개
 * 서비스명:  영단어 맞추기 게임
