@@ -72,7 +72,7 @@
 
 ### main 게임 및 현재 보유 펫 확인
 ![KakaoTalk_20240130_105251585](https://github.com/2021-SMHRD-KDT-AI-17/KNYO_mini/assets/157433093/850f8569-2c16-4f18-a502-30aca0c7ed2c)
-![KakaoTalk_20240130_105325460](https://github.com/2021-SMHRD-KDT-AI-17/KSH/assets/157433093/2fd5abb5-c16e-40b6-a036-9cf65af68f10)
+![KakaoTalk_20240130_105325460](https://github.com/2021-SMHRD-KDT-AI-17/KNYO_mini/assets/157433093/b1105edb-4dd9-453e-aa03-c29ac5331a6e)
 <br>
 
 ### 상점
