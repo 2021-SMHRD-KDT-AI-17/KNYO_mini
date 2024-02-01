@@ -76,11 +76,11 @@
 <br>
 
 ### 상점
-![KakaoTalk_20240130_105304052](https://github.com/2021-SMHRD-KDT-AI-17/KSH/assets/157433093/355d630c-183e-4157-ad22-3dd048ef1ef8)
+![KakaoTalk_20240130_105304052](https://github.com/2021-SMHRD-KDT-AI-17/KNYO_mini/assets/157433093/c2cdd938-dba5-4604-a971-bd44e35a5404)
 <br>
 
 ### 서브게임 (가위바위보)
-![KakaoTalk_20240130_105313840](https://github.com/2021-SMHRD-KDT-AI-17/KSH/assets/157433093/e7dc702e-e25b-4ebf-afbc-1e714f50aad1)
+![KakaoTalk_20240130_105313840](https://github.com/2021-SMHRD-KDT-AI-17/KNYO_mini/assets/157433093/8e58d5a7-48f8-4eec-89c1-28a089ed3596)
 <br>
 
 
